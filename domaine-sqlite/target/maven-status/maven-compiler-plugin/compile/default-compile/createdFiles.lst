@@ -1,0 +1,9 @@
+com\cfa\configs\batch\SpringConfig.class
+com\cfa\objects\person\PersonRepository.class
+com\cfa\configs\hazelcast\deserializer\CustomDeserializer.class
+com\cfa\configs\hazelcast\serializer\CustomSerializer.class
+com\cfa\configs\batch\JobConfiguration.class
+com\cfa\AppDomain.class
+com\cfa\configs\sqlite\SQLDialect.class
+com\cfa\objects\person\Person.class
+com\cfa\objects\person\PersonController.class

@@ -1,0 +1,6 @@
+com\cfa\jobs\JobController.class
+com\cfa\jobs\jobexample\SimpleTaskletSource.class
+com\cfa\JobMasterApp.class
+com\cfa\jobs\JobExecutionSink.class
+com\cfa\configs\SQLiteDialectConfig.class
+com\cfa\jobs\jobexample\SimpleJobConfiguration.class
